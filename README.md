@@ -4,7 +4,7 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Crop Yield Prediction Dataset](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset). 
+The dataset used in this project can be found on Kaggle: [Crop Yield Prediction Dataset](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield). 
 
 ## Getting Started
 To get started with this project:
